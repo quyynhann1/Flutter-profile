@@ -1,4 +1,4 @@
-# ninja_id
+# my_profile
 
 A new Flutter project.
 
