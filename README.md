@@ -1,16 +1,28 @@
 # my_profile
 
-A new Flutter project.
+A simple Flutter profile UI project built for learning and practice.
 
-## Getting Started
+## 📱 Description
+This project is a personal profile application built with Flutter.
+It focuses on practicing UI layout, widget composition, and basic project structure.
 
-This project is a starting point for a Flutter application.
+## 🛠 Technologies
+- Flutter
+- Dart
+- Material UI
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Features
+- Profile avatar and personal information
+- Clean and simple UI
+- Responsive layout for different screen sizes
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🎯 Purpose
+This project was created to:
+- Practice Flutter UI development
+- Understand widget tree and layout system
+- Get familiar with Git & GitHub workflow
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Future Improvements
+- Add dark mode
+- Extract reusable widgets
+- Connect to real data or Firebase
